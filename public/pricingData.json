@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Premium Access",
+    "price": 29.99,
+    "duration": "1 month",
+    "features": [
+      "Unlimited content access",
+      "Ad-free experience",
+      "Priority customer support",
+      "Exclusive discounts",
+      "Early access to new features"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Exclusive Plan",
+    "price": 59.99,
+    "duration": "3 months",
+    "features": [
+      "All Premium features",
+      "Downloadable resources",
+      "Beta feature testing",
+      "Special event invitations",
+      "Customizable dashboard"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Pro Package",
+    "price": 199.99,
+    "duration": "1 year",
+    "features": [
+      "All Exclusive features",
+      "Dedicated account manager",
+      "Advanced analytics tools",
+      "Team collaboration access",
+      "24/7 VIP support"
+    ]
+  }
+]
