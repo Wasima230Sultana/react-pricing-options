@@ -16,6 +16,7 @@
     "id": 2,
     "name": "Exclusive Plan",
     "price": 59.99,
+    "popular":true,
     "duration": "3 months",
     "features": [
       "All Premium features",
