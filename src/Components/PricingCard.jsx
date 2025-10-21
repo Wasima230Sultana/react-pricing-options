@@ -3,7 +3,7 @@ import PricingFeatures from './PricingFeatures';
 
 const PricingCard = ({pricing}) => {
     const {name, price, duration, features} = pricing;
-    console.log(pricing)
+    // console.log(pricing)
     return (
      
         <div className='border bg-amber-600 rounded-lg p-5 flex flex-col'>
